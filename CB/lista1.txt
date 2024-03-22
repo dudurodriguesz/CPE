@@ -1,0 +1,74 @@
+1	- Categorize cada um dos seguintes itens como hardware ou software:
+1.	CPU - hardware
+2.	Disco rígido -hardware
+3.	Programa Word -software
+4.	Instagram - software
+5.	Teclado - hardware
+2	- O que é software e qual sua importância?
+R: São programas com instruções e dados que são extremamente importantes, pois são utilizados para realizar tarefas do cotidiano.
+3	- Defina com suas próprias palavras o que é algoritmo.
+R: Conjunto de passos (instruções) lógicos, detalhados e ordenados que são utilizados para resolver um problema ou tarefa.
+4	- Cite exemplos de software usados na medicina, ciência no entretenimento que você conhece. 
+R: - Medicina: ultrassom: Ciência: microscópio eletrônico; Entretenimento: spotify.
+5	- Quais softwares deixa sua vida mais fácil? Quais deixam sua vida mais complicada? 
+R: Calculadora online, word, waze. Quais deixam sua vida mais complicada? Vírus de computadores, cadastros online desnecessários.
+
+6	- Considere uma atividade de sua rotina diária. Como a computação está direta ou indiretamente envolvida? 
+R: Ao estudar, utilizo softwares no computador: youtube; ao me locomover utilizo o aplicativo de gps.
+
+7	- A partir de sua experiência pessoal, descreva uma atividade que não seria possível sem computadores. 
+R: Programar
+8	- Faça uma Lista programas que você utiliza.  
+R: Google, instagram, youtube, waze, whatsapp.
+9	- Faça uma lista com dez atividades que não utilizam computadores de nenhuma maneira. 
+R: Julgar, rebocar uma construção, conversar presencialmente, tomar decisões lógicas, nadar, correr, pular, andar, olhar, escolher.
+10	- Você acha que a inteligência artificial vai acabar com empregos na área da computação? Justifique. 
+R: Não, pois ainda é necessário pessoas para programar essa inteligência, falta uma propriedade intelectual.
+
+11	- Descreva a capacidade de seu computador em termos de processamento, memória e armazenamento. 
+R: Processamento: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Memória: RAM instalada 16,0 GB (utilizável: 15,9 GB)
+Armazenamento: Disco local (C:) – 237GB ssd 
+12	- Descreva um algoritmo para resolver um cubo mágico. 
+R: 1º passo: preparar a cruz inicial ( branco) e amarelo no meio
+    2º passo: finalizar a cruz branca trocando o amarelo do meio
+    3º passo: fazer a primeira camada lateral	das cores
+    4º passo: fazer a segunda camada
+    5º passo: montar a cruz amarela
+   6º passo: completar a cruz amarela
+   7º passo: montar as quinas laterais
+   8º passo: finalizar os meios da ultima camada
+
+13	- Qual a diferença entre bit e byte? 
+R: Bit (binary digit) é a menor unidade de informação em sistemas digitais. Byte (conjunto de 8 bits) é a unidade utilizada para representar letras e números.
+14	- Como representar números reais usando sistema binário?
+R: Números reais podem ser quebrados em potências do número 2
+Exemplo: 23= 2^4 + 2^2 +2^1 + 2^0
+23= 1x 2^4 + 0x 2^3 +1x2^2 + 1x2^1 + 1x2^0 = 10111
+15	- Descreva os passos para converter o número decimal 150 para sua representação em binário. 
+R: 1º subtrair 0 (número par) e 1 (número ímpar) de todos os resultados
+     2º dividir por 2 todos os resultados:
+150 – 0 =150 /2 = 75
+75 -1 = 74 /2 = 37
+37 – 1= 36 /2 =18
+18 – 0 = 18 /2 = 9
+9 – 1 = 8 /2 =4
+4 -0 = 4/2 =2
+2- 0= 2 / 2=1
+1-1	=0
+Os números que foram subtraídos a partir desse sentido ↑ serão o número 150 em binário 
+150 = 10010110
+
+
+16	- Descreva o papel do scrum master, dono do produto e do time de desenvolvimento. 
+R: Scrum é uma ferramenta de gestão de desenvolvimento que faz a segmentação de um processo para pessoas trabalharem juntas de maneira mais eficiente. Já o scrum master é o treinador/ líder do restante da equipe, garante que o scrum seja compreendido corretamente pela equipe.
+Dono do produto possui o papel de garantir que todas as funções desempenhem seu papel e que o produto final seja formado de maneira correta.
+O papel do time de desenvolvimento é seguir suas funções e etapas do scrum para que o produto final seja formado.
+17	- Descreva os comandos para mover, copiar, e remover arquivos usando linha de comando no sistema operacional que você utiliza. 
+R: Mover: comando mv, seguido do nome do arquivo e do diretório de destino.
+Copiar: Comando cp, seguido do nome do arquivo e a pasta para onde ele vai.
+Remover: rm-R em um diretório para excluir uma pasta e todos seus arquivos presentes.
+18	- Qual o padrão IEEE para redes WiFi? E para o Bluetooth?
+R: WiFi = padrão IEEE 802.11.
+Bluetooth= IEEE 802.15
+
