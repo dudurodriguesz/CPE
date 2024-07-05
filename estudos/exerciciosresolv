@@ -1,1 +1,2 @@
-
+typedef float nota;
+#define numero 10
