@@ -1,2 +1,30 @@
 typedef float nota;
 #define numero 10
+
+
+
+arquivo
+
+
+#include <fstream>
+
+
+dentro da main
+ofstream arquivo;
+arquivo.open("nomedoarquivo.txt");
+arquivo << "Curso de c++);
+arquivo.close();
+
+
+
+ifstream arquivoE;
+arquivoE.open("nomedoarquivo.txt");
+string linha;
+verificar se arquivo foi aberto
+
+if(arquivoE.is_open()){
+while(getline(arquivoE,linha)){
+cout linha;}
+}else{
+cout << " nao foi possivel abrir o arquivo";}
+
