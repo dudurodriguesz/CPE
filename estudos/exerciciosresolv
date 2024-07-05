@@ -29,3 +29,18 @@ cout linha;}
 cout << " nao foi possivel abrir o arquivo";}
 
 nao esquecer de fechAR O ARQUVOI
+
+
+
+fstream arquivo;
+arquivo.open("nomedoarquivo.txt",ios::out);
+while ((opc=='s') or (opc=='S'
+
+#include <cstdlib>
+
+system("CLS");
+
+
+arquivo.open("nomedoarq.txt,ios::in);
+
+
