@@ -28,3 +28,4 @@ cout linha;}
 }else{
 cout << " nao foi possivel abrir o arquivo";}
 
+nao esquecer de fechAR O ARQUVOI
